@@ -1,0 +1,9 @@
+D:\GitHub2\ClassExamTop3\ClassExamTop3\bin\Debug\ClassExamTop3.dll
+D:\GitHub2\ClassExamTop3\ClassExamTop3\bin\Debug\ClassExamTop3.pdb
+D:\GitHub2\ClassExamTop3\ClassExamTop3\obj\Debug\ClassExamTop3.csprojResolveAssemblyReference.cache
+D:\GitHub2\ClassExamTop3\ClassExamTop3\obj\Debug\ClassExamTop3.csproj.GenerateResource.Cache
+D:\GitHub2\ClassExamTop3\ClassExamTop3\obj\Debug\ClassExamTop3.dll
+D:\GitHub2\ClassExamTop3\ClassExamTop3\obj\Debug\ClassExamTop3.pdb
+D:\GitHub2\ClassExamTop3\ClassExamTop3\obj\Debug\ClassExamTop3.Properties.Resources.resources
+D:\GitHub2\ClassExamTop3\ClassExamTop3\obj\Debug\ClassExamTop3.ExamReporter.resources
+D:\GitHub2\ClassExamTop3\ClassExamTop3\obj\Debug\ClassExamTop3.SemsReporter.resources
