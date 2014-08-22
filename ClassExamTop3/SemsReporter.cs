@@ -136,7 +136,7 @@ namespace ClassExamTop3
             Workbook wb = new Workbook(new MemoryStream(Properties.Resources.Top3Template));
 
             Cells cs = wb.Worksheets[0].Cells;
-            cs[0, 0].PutValue("雙語部 " + _schoolYear + "年度 第" + _semester + "學期 全班前三名名單");
+            cs[0, 0].PutValue("雙語部 " + (_schoolYear + 1911) + "-" + (_schoolYear + 1912) + "年度 第" + _semester + "學期 全班前三名名單");
             cs[1, 0].PutValue("考試別:" + _ExamName);
             cs[1, 3].PutValue("列印日期:" + SelectTime());
 
