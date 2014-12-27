@@ -186,10 +186,10 @@ namespace ClassExamTop3
 
             score_list.Sort(delegate(StudentObj x, StudentObj y)
             {
-                if (x.AvgScore == y.AvgScore)
-                    return x.AvgGPA.CompareTo(y.AvgGPA);
-                else
+                if (x.AvgGPA == y.AvgGPA)
                     return x.AvgScore.CompareTo(y.AvgScore);
+                else
+                    return x.AvgGPA.CompareTo(y.AvgGPA);
             });
 
             score_list.Reverse();
@@ -202,13 +202,13 @@ namespace ClassExamTop3
             {
                 count++;
 
-                if (temp_score != obj.AvgScore)
+                if (temp_gpa != obj.AvgGPA)
                 {
                     rank = count;
                 }
                 else
                 {
-                    if (temp_gpa != obj.AvgGPA)
+                    if (temp_score != obj.AvgScore)
                         rank = count;
                 }
 
